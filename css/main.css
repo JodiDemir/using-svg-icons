@@ -36,8 +36,8 @@ a:focus {
 
 .icon svg {
   left: 0;
-  height: 100%;
   position: absolute;
+  height: 100%;
   top: 0;
   width: 100%;
   fill: currentColor;
